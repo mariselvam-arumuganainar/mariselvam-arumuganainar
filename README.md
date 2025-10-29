@@ -17,7 +17,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariselvam-arumuganainar.mariselvam-arumuganainar&"  />
+</div>
+
+###
 
 <h1 align="center">Hey there! 👋</h1>
 
@@ -116,5 +120,19 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mariselvam-arumuganainar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariselvam-arumuganainar/mariselvam-arumuganainar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariselvam-arumuganainar/mariselvam-arumuganainar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariselvam-arumuganainar/mariselvam-arumuganainar/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
